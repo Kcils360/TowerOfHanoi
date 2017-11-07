@@ -1,1 +1,2 @@
 # TowerOfHanoi
+The tower of hanoi challenge is one that I am fairly familiar with in the physical world.  I've spent many hours playing with a physical model of this challenge. However, translating to code was a bit of a challenge.  We didn't really use any resourses to do this, we just relied on the graphical representation of each state of the challenge to determin what the next step in code should be.
